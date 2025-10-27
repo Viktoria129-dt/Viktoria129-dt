@@ -28,4 +28,7 @@ Always excited to learn new things and connect with other developers in the comm
 
 ## 📊 My Stats
 
-[![LeetCode](https://leetcode-stats.vercel.app/api?username=Vikkimonk&theme=Dark)](https://leetcode.com/u/Vikkimonk/)
+<a href="https://leetcode.com/u/Vikkimonk/">
+  <img height="165em" src="https://leetcode-stats.vercel.app/api?username=Vikkimonk&theme=Dark"/>
+</a>
+
