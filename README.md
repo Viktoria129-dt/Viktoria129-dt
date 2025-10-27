@@ -1,3 +1,16 @@
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  Hi, I'm [Your Name]!
+</h1>
+
+<h3 align="center">🚀 Junior Android Developer • 📱 Kotlin Enthusiast • 💫 Constantly Learning</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=27F7D6&center=true&vCenter=true&width=435&lines=Junior+Android+Developer;Learning+Every+Day;Kotlin+Enthusiast;Jetpack+Compose+Learner" alt="Typing SVG" />
+</p>
+
+---
+
 ## 🌟 About Me
 
 Beginner Android developer with strong passion for mobile technologies. Currently focused on learning modern development practices and building practical applications.
@@ -11,3 +24,17 @@ Beginner Android developer with strong passion for mobile technologies. Currentl
 **Interests:** Mobile apps, UI/UX design, problem-solving, technology trends
 
 Always excited to learn new things and connect with other developers in the community!
+
+
+## 📊 My Stats
+
+<div align="center">
+
+<a href="https://github.com/Viktoria129-dt">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=radical"/>
+</a>
+<a href="https://leetcode.com/u/Vikkimonk/">
+  <img height="180em" src="https://leetcard.jacoblin.cool/your_username?theme=dark&font=Roboto%20Mono"/>
+</a>
+
+</div>
