@@ -28,10 +28,4 @@ Always excited to learn new things and connect with other developers in the comm
 
 ## 📊 My Stats
 
-<div align="center">
-
-<a href="https://leetcode.com/u/Vikkimonk/">
-  <img height="180em" src="https://leetcode.com/u/Vikkimonk/?theme=dark&font=Roboto%20Mono"/>
-</a>
-
-</div>
+[![LeetCode](https://leetcode-stats.vercel.app/api?username=Vikkimonk&theme=Dark)](https://leetcode.com/u/Vikkimonk/)
