@@ -30,11 +30,8 @@ Always excited to learn new things and connect with other developers in the comm
 
 <div align="center">
 
-<a href="https://github.com/Viktoria129-dt">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=radical"/>
-</a>
 <a href="https://leetcode.com/u/Vikkimonk/">
-  <img height="180em" src="https://leetcard.jacoblin.cool/your_username?theme=dark&font=Roboto%20Mono"/>
+  <img height="180em" src="https://leetcode.com/u/Vikkimonk/?theme=dark&font=Roboto%20Mono"/>
 </a>
 
 </div>
